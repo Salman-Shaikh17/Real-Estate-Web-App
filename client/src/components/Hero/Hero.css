@@ -25,10 +25,10 @@
   font-size: 3.8rem;
   line-height: 4rem;
 }
-.orange-circle {
+.blue-circle {
   height: 4rem;
   width: 4rem;
-  background: var(--orange-gradient);
+  background: var(--blue-gradient);
   border-radius: 999px;
   position: absolute;
   right: 28%;
