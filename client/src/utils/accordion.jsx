@@ -3,21 +3,21 @@ import { MdCancel, MdAnalytics } from "react-icons/md";
 const data = [
   {
     icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    heading: "Best rates for our clients",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "At SAL Properties, we offer competitive home rates tailored to meet diverse financial needs. Our dedicated team ensures clients access the best rates through personalized consultations, leveraging market insights and strong lender relationships. Our commitment to affordability and quality service makes SAL Properties the go-to choice for optimal home financing solutions.",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: "Maintaining a stable market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "SAL Properties, a renowned real estate firm, focuses on maintaining stable home prices amidst fluctuating market trends. We employ strategies like regular property evaluations, investing in community developments, and offering competitive pricing. Our approach ensures long-term value for homeowners and attracts new buyers, balancing market demand with affordability. This careful management helps in sustaining a robust housing market, benefiting our clients.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Dream home made easy",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Finding your dream home is made easy with our wide range of options and expert guidance. Our team understands your unique needs and preferences, offering personalized assistance throughout your search. With our extensive portfolio of quality properties, you're sure to find a home that fits your lifestyle and budget.",
   },
 ];
 export default data;
